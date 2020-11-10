@@ -17,3 +17,4 @@ if __name__ == "__main__":
     solve(board)
     print("___________________")
     print_board(board)
+    print("___________________")
